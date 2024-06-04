@@ -220,7 +220,7 @@
 
 // let name 
 // console.log(name);
-// result undefined
+// result undefineds
 // data type....
 
 // let name  = null;
